@@ -14,6 +14,9 @@ This is where I started my portfolio building while taking my data analysis clas
 
 ### Exploratory Data Analysis
 
+*italics*
+**bold**
+
 ### Data Analysis
 
 ~~~ SQL
