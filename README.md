@@ -1,2 +1,2 @@
 # Personal-Learning-Documentation
-this is where i started my portfolio building while taking my data analysis class
+This is where I started my portfolio building while taking my data analysis class
